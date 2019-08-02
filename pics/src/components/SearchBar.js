@@ -6,6 +6,7 @@ class SearchBar extends React.Component {
     onFormSubmit = (event) => {
         event.preventDefault(); // keep the form from trying to submit automatically
 
+        this.props.onSubmit(this.state.term);
         // this will not work, it thinks this is resolved to 'undefined'
         //  console.log(this.state.term);
     };
