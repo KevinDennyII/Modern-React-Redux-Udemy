@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c85bbf7c-d29b-46f2-8962-8bc071eed898" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PostList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UserHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UserHeader.js" afterDir="false" />
-    </list>
+    <list default="true" id="c85bbf7c-d29b-46f2-8962-8bc071eed898" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +57,7 @@
       <workItem from="1566243981958" duration="4809000" />
       <workItem from="1566274046253" duration="2259000" />
       <workItem from="1566418985653" duration="267000" />
-      <workItem from="1566612113781" duration="5856000" />
+      <workItem from="1566612113781" duration="6078000" />
     </task>
     <servers />
   </component>
