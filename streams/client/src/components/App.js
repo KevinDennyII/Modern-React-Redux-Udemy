@@ -8,6 +8,7 @@ import StreamShow from "./streams/StreamShow";
 import Header from './Header';
 
 const App = () => {
+  // WE DO NOT WANT TO USE ANCHOR TAGS HERE!!! <A>
   return (
       <div className="ui container">
         <BrowserRouter>
