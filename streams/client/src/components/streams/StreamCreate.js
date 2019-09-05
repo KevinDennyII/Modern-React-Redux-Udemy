@@ -22,7 +22,7 @@ class StreamCreate extends React.Component {
             <input {...input} autoComplete="off" />
             {this.renderError(meta)}
         </div>
-        );
+    );
   };
 
   onSubmit = (formValues) => {

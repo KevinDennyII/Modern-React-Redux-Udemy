@@ -1,3 +1,20 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "Beamin Streamin",
+      "description": "This is my stream",
+      "id": 1
+    },
+    {
+      "title": "Streamin Beamin",
+      "description": "This is my stream, again",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    }
+  ]
 }
