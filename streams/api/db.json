@@ -14,6 +14,18 @@
       "title": "new stream 1",
       "description": "new streaming 1",
       "id": 3
+    },
+    {
+      "title": "I CREATED THIS STREAM",
+      "description": "This Stream Was Created By Mighty Mouse",
+      "userId": "111694200349285250531",
+      "id": 4
+    },
+    {
+      "title": "Unexpected Behavior",
+      "description": "I didnt think that would happen!",
+      "userId": "111694200349285250531",
+      "id": 5
     }
   ]
 }
