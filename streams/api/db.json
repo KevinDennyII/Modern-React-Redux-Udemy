@@ -1,16 +1,18 @@
 {
   "streams": [
     {
-      "title": "Beamin Streamin",
-      "description": "This is my stream",
+      "title": "new stream",
+      "description": "new streaming I am entering",
       "id": 1
     },
     {
-      "title": "Streamin Beamin",
-      "description": "This is my stream, again",
+      "title": "new stream 1",
+      "description": "new streaming I am entering again",
       "id": 2
     },
     {
+      "title": "new stream 1",
+      "description": "new streaming 1",
       "id": 3
     }
   ]
