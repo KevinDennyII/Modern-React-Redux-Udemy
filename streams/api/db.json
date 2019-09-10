@@ -1,29 +1,13 @@
 {
   "streams": [
     {
-      "title": "new stream",
-      "description": "new streaming I am entering",
-      "id": 1
-    },
-    {
-      "title": "new stream 1",
-      "description": "new streaming I am entering again",
-      "id": 2
-    },
-    {
-      "title": "new stream 1",
-      "description": "new streaming 1",
-      "id": 3
-    },
-    {
       "title": "I CREATED THIS STREAM",
-      "description": "This Stream Was Created By Mighty Mouse",
-      "userId": "111694200349285250531",
+      "description": "This Stream Was Created By Captain Marvel",
       "id": 4
     },
     {
       "title": "Unexpected Behavior",
-      "description": "I didnt think that would happen!",
+      "description": "I didnt think that would but it DID!",
       "userId": "111694200349285250531",
       "id": 5
     },
@@ -32,6 +16,12 @@
       "description": "This is programmatic navigation",
       "userId": "111694200349285250531",
       "id": 6
+    },
+    {
+      "title": "Me Streaming Component Reusue",
+      "description": "Watch me!",
+      "userId": "111694200349285250531",
+      "id": 7
     }
   ]
 }
