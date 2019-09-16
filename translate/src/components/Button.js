@@ -6,15 +6,15 @@ class Button extends React.Component {
   //static contextType = LanguageContext; //contextType is a very special unique name for context
 
   /*** HELPER FUNCTIONS ***/
-  renderSubmit(value) {
-    return value === 'english' ? 'Submit' : 'Voorlaggen';
+  renderSubmit(language) {
+    return language === 'english' ? 'Submit' : 'Voorlaggen';
   }
 
   renderButton(color){
     return (
       <button className={`ui button ${color}`}>
         <LanguageContext.Consumer>
-          {(value) => this.renderSubmit(value)}
+          {({ language }) => this.renderSubmit(language)}
         </LanguageContext.Consumer>
       </button>
     );
